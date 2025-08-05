@@ -17,4 +17,4 @@ Since I currently don’t have access to a Mac system, this GitHub repository co
 ## Note:
 This code is written and structured with clear intention to show my understanding of clean iOS development, even though I couldn't simulate it without Xcode.
 
-— Sreeranjini 
+— M Sree Ranjini 
